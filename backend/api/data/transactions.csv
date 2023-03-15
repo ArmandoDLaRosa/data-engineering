@@ -1,3 +1,7 @@
 transaction_id,consumer_id,beneficiary_id,send_amount,send_currency,transaction_datetime,is_recent_transaction,is_valid_transaction,is_fraudulent_transaction
 1247,456,789,500,USD,2022-12-05 11:45:15.243,False,True,False
 1248,456,789,500,USD,2022-12-05 11:45:15.243,False,True,False
+124,456,789,500,USD,2022-12-05 11:45:15.243,False,True,False
+2,456,789,500,USD,2022-12-05 11:45:15.243,False,True,False
+3,456,789,500,USD,2022-12-05 11:45:15.243,False,True,False
+4,456,789,500,USD,2022-12-05 11:45:15.243,False,True,False

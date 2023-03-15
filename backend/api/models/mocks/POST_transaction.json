@@ -1,6 +1,12 @@
 {
-    "analysis": "Armando",
-    "created_by": "A01570376@tec.mx",
-    "updated_by": "Armando",
-    "available": true
+	"transaction_id": "124",
+    "consumer_first_name":"Sam",
+    "consumer_last_name":"Walker",
+    "consumer_id":"456",
+    "beneficiary_first_name":"Judy",
+    "beneficiary_last_name":"Potter",
+    "beneficiary_id":"789",
+    "send_amount":"500",
+    "send_currency":"USD",
+    "transaction_datetime":"2022-12-05 11:45:15.243"
 }

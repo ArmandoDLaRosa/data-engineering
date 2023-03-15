@@ -12,7 +12,6 @@ def is_recent(transaction_datetime):
 def is_valid(send_amount):
     return False if ((send_amount < 100) or (send_amount > 10000)) else True
 
-# Generate a sample dataset of 100 transactions
 
 with open('transactions.csv', mode='w', newline='') as file:
     # do nothing, just open and immediately close the file to clear its contents

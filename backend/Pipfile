@@ -6,6 +6,17 @@ name = "pypi"
 [packages]
 flask = "*"
 python-dotenv = "*"
+flask-sqlalchemy = "*"
+flask-marshmallow = "*"
+flask-cors = "*"
+marshmallow = "*"
+marshmallow-sqlalchemy = "*"
+joblib = "*"
+numpy = "*"
+requests = "*"
+pyscopg2 = "*"
+psycopg2-binary = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
